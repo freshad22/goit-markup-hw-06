@@ -314,7 +314,7 @@ body {
     position: relative;
     display: block;
     margin-bottom: 10px;
-    color: var(--primary-text-color);
+    color: var(--title-text-color);
 }
 
 
@@ -322,6 +322,7 @@ body {
 .modal-window-label:hover > .modal-window-icon {
     color: var(--accent-color);
 }
+
 
 .modal-window-label:focus-within > input,
 .modal-window-label:hover > input {
